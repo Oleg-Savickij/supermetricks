@@ -1,0 +1,6 @@
+{
+  "clientId": "test",
+  "supermetrics_api": "https://example.com",
+  "email": "example@gmail.com",
+  "name": "John Wick"
+}
